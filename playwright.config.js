@@ -4,7 +4,7 @@ export default defineConfig({
   testDir: './tests',
   reporter: 'list',
   use: {
-    baseURL: 'https://your-travel-app.vercel.app', // replace with your production URL
+    baseURL: 'https://aiutbildningaqc.vercel.app', // replace with your production URL
     browserName: 'chromium',
   },
 });
